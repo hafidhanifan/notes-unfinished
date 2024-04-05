@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Source Code Pro", sans-serif;
+}
+
+main {
+  min-height: 100vh;
+}
+
+footer {
+  margin-top: 80px;
+  background-color: #ffcf96;
+  height: 70px;
+  width: 100%;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
